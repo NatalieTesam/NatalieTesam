@@ -1,4 +1,4 @@
-## Profile Summary 
+## Summary 
 
 Senior Computer Science Student at Brigham Young University - Idaho | Passion for Software Engineering, OOP, Web Design and Development, Game Development, and Learning Programming Languages.
 
@@ -21,7 +21,7 @@ Senior Computer Science Student at Brigham Young University - Idaho | Passion fo
 - Programming Languages & Technologies: Python, C#, Erlang, JavaScript, HTML/CSS, MySQL, Java, C, C++, Vue, React, Godot
 - Coursework & Skills: Data Structures, Algorithms, Parallelism, Concurrency, Processes, Web Development, Database Design, Software Engineering, Technical Teamwork, Design Thinking
 
-###### School Related Projects
+##### School Related Projects
 - Sleep Outside (Teamwork, JavaScript, Debugging, Mentoring)
 - Page Mate (HTML/CSS, JavaScript, API)
   - https://github.com/NatalieTesam/PageMate
