@@ -2,6 +2,60 @@
 
 Senior Computer Science Student at Brigham Young University - Idaho | Passion for Software Engineering, OOP, Web Design and Development, Game Development, and Learning Programming Languages.
 
+## Projects
 
+- Event Rex (Web Design, HTML/CSS, Teamwork)
+  - https://github.com/NatalieTesam/EventRex-BYUI-Hackathon-2021
+- Study Buddy (React, Typescript, Adaptability)
+  - https://github.com/NatalieTesam/StudyBuddy-Hackathon-2024
+- Duo Jam (JavaScript, Snapchat)
+- Upcoming USU Hackathon Project
+  - COMING FEB 28
 
+## Education
 
+### Bachelor of Science - Computer Science
+#### Brigham Young University - Idaho | August 2021 - December 2026
+
+- Programming Languages & Technologies: Python, C#, Erlang, JavaScript, HTML/CSS, MySQL, Java, C, C++, Vue, React, Godot
+- Coursework & Skills: Data Structures, Algorithms, Parallelism, Concurrency, Processes, Web Development, Database Design, Software Engineering, Technical Teamwork, Design Thinking
+
+###### School Related Projects
+- Sleep Outside (Teamwork, JavaScript, Debugging, Mentoring)
+- Page Mate (HTML/CSS, JavaScript, API)
+  - https://github.com/NatalieTesam/PageMate
+- Fridge Tracker (C, C++)
+- Slime Escape (C#, Godot, Coordinating, Organizing)
+- Crochet Modeler (Python, OOP, Reporting)
+
+## Experience
+
+### Part Time Junior Vue Developer
+#### Inventory Shield | May 2024 - Present
+
+- Developed & maintained the Inventory Shield application in a team of 5 developers through refactoring, testing, and correcting errors, code reviews, standup meetings, resolving merge conflicts
+- Refactored and updated front-end features using Vue.js, TypeScript, HTML, and CSS, transitioning from Vue2 to Vue3
+
+## Skills
+
+- Software Development
+- Object Oriented Programming (OOP)
+- Teamwork
+- Algorithms
+- Adaptability
+- Time Management
+- Python
+- HTML | CSS
+- JavaScript | TypeScript
+- Vue | React
+- C | C++ | C#
+
+## Personal Interests
+
+- Gardening and Crochet
+- Volunteer Work
+- Reading
+- Game Design
+- Designing Interactive Tools
+- Creating Educational Software
+- Entrepreneurship
