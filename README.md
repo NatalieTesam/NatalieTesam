@@ -9,6 +9,7 @@ Senior Computer Science Student at Brigham Young University - Idaho | Passion fo
 - Study Buddy (React, Typescript, Adaptability)
   - https://github.com/NatalieTesam/StudyBuddy-Hackathon-2024
 - Duo Jam (JavaScript, Snapchat)
+  - https://github.com/NatalieTesam/DuoJam 
 - Upcoming USU Hackathon Project
   - COMING FEB 28
 
