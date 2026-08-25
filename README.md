@@ -12,6 +12,8 @@ Senior Computer Science Student at Brigham Young University - Idaho | Passion fo
   - https://github.com/NatalieTesam/DuoJam 
 - Career Architect (JavaScript, HTML, CSS)
   - https://github.com/NatalieTesam/Career-Architect
+- A Monster Adventure (Godot, C#)
+  - https://github.com/NatalieTesam/a_monster_adventure
 
 ## Education
 
