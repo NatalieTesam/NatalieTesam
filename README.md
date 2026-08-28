@@ -18,7 +18,7 @@ Senior Computer Science Student at Brigham Young University - Idaho | Passion fo
 ## Education
 
 ### Bachelor of Science - Computer Science
-#### Brigham Young University - Idaho | August 2021 - December 2026
+#### Brigham Young University - Idaho | August 2021 - April 2027
 
 - Programming Languages & Technologies: Python, C#, Erlang, JavaScript, HTML/CSS, MySQL, Java, C, C++, Vue, React, Godot
 - Coursework & Skills: Data Structures, Algorithms, Parallelism, Concurrency, Processes, Web Development, Database Design, Software Engineering, Technical Teamwork, Design Thinking
